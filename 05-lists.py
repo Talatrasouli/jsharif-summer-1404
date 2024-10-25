@@ -26,7 +26,7 @@
 # print(id(a))
 
 # ----------------------------------
-lst=['a','b','c']
+# lst=['a','b','c']
 
 # for index,item in enumerate(last):
 #     print(index,item)
